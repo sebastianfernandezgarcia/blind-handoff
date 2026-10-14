@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+.DS_Store
+/devpost/learner-profile.md
+/vendor/
+/docs/human-trials/
